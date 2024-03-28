@@ -1,0 +1,6 @@
+flask
+requests
+aiohttp
+bs4
+brotli
+jsonify
